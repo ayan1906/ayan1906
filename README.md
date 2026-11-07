@@ -1,23 +1,33 @@
 <div align="center">
 
-<a href="https://portfoliomain-snowy.vercel.app/">
-  <img src="./assets/banner.svg" alt="Sakin Arshad Ayan - Frontend Developer | UI/UX Enthusiast" width="100%" />
-</a>
+  <!-- Header Banner / Typing Animation -->
+  <a href="https://portfoliomain-snowy.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+Sakin+Arshad+Ayan+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Diploma+in+Engineering+%40+CPI;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <strong>Crafting clean, responsive, and engaging digital web experiences with modern tech.</strong>
-</p>
+  <p align="center">
+    <strong>Crafting clean, responsive, and engaging digital web experiences with modern tech.</strong>
+  </p>
 
-<p align="center">
-  <a href="https://portfoliomain-snowy.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfoliomain--snowy.vercel.app-7928CA?style=for-the-badge&logoColor=white" alt="Live Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sakin-ayan-a7953b346/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adasr0099@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/8801708561481"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
+  <!-- Quick Action Badges -->
+  <p align="center">
+    <a href="https://portfoliomain-snowy.vercel.app/">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-portfoliomain--snowy.vercel.app-7928CA?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/sakin-ayan-a7953b346/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:adasr0099@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://wa.me/8801708561481">
+      <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+  </p>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ### 💫 About Me
 
@@ -30,13 +40,9 @@ I'm **Sakin Arshad Ayan**, a passionate **Frontend Developer** and **UI/UX Enthu
 - 💼 **Open To:** Freelance projects, junior frontend roles, and internship opportunities.
 - ⚡ **Fun Fact:** When I'm not writing code, you'll find me playing *Free Fire* or exploring bleeding-edge web libraries.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ### 🛠️ Tech Stack & Skills
-
-<div align="center">
-  <img src="./assets/orbit.svg" width="520" alt="Animated orbit of skills: HTML, CSS, JS, React, Tailwind, Vite, Motion, Python, NumPy, Pandas, ML, Firebase" />
-</div>
 
 <div align="center">
 
@@ -71,9 +77,11 @@ I'm **Sakin Arshad Ayan**, a passionate **Frontend Developer** and **UI/UX Enthu
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ### 🚀 Featured Projects
+
+Here are some highlights from my recent work:
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -82,12 +90,12 @@ I'm **Sakin Arshad Ayan**, a passionate **Frontend Developer** and **UI/UX Enthu
 | **🏛️ CPI ICT Club** | The official responsive community portal for CPI ICT Club, featuring club events, workshops, announcements, and team info. | `HTML5` `Tailwind CSS` `JavaScript` | [🌐 Live Demo](https://cpi-ict-club1.vercel.app/) \| [💻 Code](https://github.com/ayan1906/cpi-ict) |
 | **🍿 Movie Explorer** | Responsive movie database search web application with live search queries, ratings, and genre filters. | `React` `Tailwind CSS` `REST APIs` | [🌐 Live Demo](https://ayan1906.github.io/Movieexplore/) \| [💻 Code](https://github.com/ayan1906/Movieexplore) |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan1906&show_icons=true&theme=radical&hide_border=true&title_color=a855f7&text_color=94a3b8&icon_color=06b6d4&bg_color=0d1117" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayan1906&show_icons=true&theme=radical&hide_border=true&title_color=a855f7&text_color=94a3b8&icon_color=06b6d4&bg_color=0d1117" alt="Ayan's GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan1906&layout=compact&theme=radical&hide_border=true&title_color=a855f7&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" height="175" />
 </div>
 
@@ -95,22 +103,33 @@ I'm **Sakin Arshad Ayan**, a passionate **Frontend Developer** and **UI/UX Enthu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan1906&theme=radical&hide_border=true&stroke=a855f7&background=0d1117&ring=06b6d4&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ### 🤝 Connect With Me
 
 Feel free to reach out for collaboration, freelance inquiries, or just a friendly tech chat!
 
 <p align="center">
-  <a href="https://portfoliomain-snowy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portfoliomain--snowy.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sakin-ayan-a7953b346/"><img src="https://img.shields.io/badge/LinkedIn-sakin--ayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adasr0099@gmail.com"><img src="https://img.shields.io/badge/Email-adasr0099@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/Iamayan1906"><img src="https://img.shields.io/badge/Facebook-Iamayan1906-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/i_am_ayan19/"><img src="https://img.shields.io/badge/Instagram-i__am__ayan19-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://portfoliomain-snowy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-portfoliomain--snowy.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sakin-ayan-a7953b346/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sakin--ayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adasr0099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adasr0099@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/Iamayan1906" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Iamayan1906-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/i_am_ayan19/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-i__am__ayan19-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<img src="./assets/footer.svg" width="100%" alt="Learning today, building for tomorrow." />
+---
 
 <div align="center">
+  <p><i>"Learning today, building for tomorrow."</i></p>
   <sub>⭐ Designed with passion by <b>Sakin Arshad Ayan</b>. If you like my work, don't hesitate to star my repositories!</sub>
 </div>
